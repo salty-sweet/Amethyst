@@ -1,0 +1,22 @@
+{
+  "name": "asphodellauncher",
+  "version": "0.0.0",
+  "description": "Asphodel Launcher.",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "salty-sweet",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "minecraft-server-util": "^4.1.1",
+    "monaco-editor": "^0.29.1",
+    "pidusage": "^3.0.0",
+    "systeminformation": "^5.9.9",
+    "xterm": "^4.14.1"
+  },
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
